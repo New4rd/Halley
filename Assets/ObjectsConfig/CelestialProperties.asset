@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb69e4c44c124669a4082ed4212fd58, type: 3}
+  m_Name: CelestialProperties
+  m_EditorClassIdentifier: 
+  rotationCoefficient: 1
+  revolutionCoefficient: 3
+  normalizeAllRotations: 1
+  normalizedRotation: 3
+  normalizeAllRevolutions: 0
+  normalizedRevolution: 4
+  celestialInfos:
+  - celestial: 1
+    rotationPeriod: 58.6
+    revolutionPeriod: 4.1
+  - celestial: 2
+    rotationPeriod: 243
+    revolutionPeriod: 1.6
+  - celestial: 3
+    rotationPeriod: 1
+    revolutionPeriod: 1
+  - celestial: 4
+    rotationPeriod: 1.03
+    revolutionPeriod: 0.5
+  - celestial: 5
+    rotationPeriod: 0.41
+    revolutionPeriod: 0.08
+  - celestial: 6
+    rotationPeriod: 0.45
+    revolutionPeriod: 0.03
+  - celestial: 7
+    rotationPeriod: 0.72
+    revolutionPeriod: 0.01
+  - celestial: 8
+    rotationPeriod: 0.67
+    revolutionPeriod: 0.006
+  - celestial: 9
+    rotationPeriod: 1
+    revolutionPeriod: 0
+  - celestial: 0
+    rotationPeriod: 1
+    revolutionPeriod: 0

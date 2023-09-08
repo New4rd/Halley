@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/--- MainScene ---.unity
+    guid: c42d7467a2a6c4fe7a4e01f39ff58c3c
+  - enabled: 1
+    path: Assets/Scenes/SystemScene.unity
+    guid: ae2d41e8ad554480c84d19e4bee5791b
+  - enabled: 1
+    path: Assets/Scenes/LightyearScene.unity
+    guid: 0eeb37ad03c364d889373bc0a0d9d06f
+  - enabled: 1
+    path: Assets/Scenes/IntroductionScene.unity
+    guid: 6752346969b234eb08e5e46020a60c71
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 83c8f10f348244f77b3c93a9526241d6
+  - enabled: 1
+    path: Assets/Scenes/Outroduction.unity
+    guid: 615c32f8607e8499a9007c8e4e52d26a
+  - enabled: 1
+    path: Assets/Scenes/HeadphonesScene.unity
+    guid: cf4ad362c35d24f2cb1f5cbd6377f271
+  m_configObjects: {}
